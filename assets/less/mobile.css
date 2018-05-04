@@ -1,0 +1,142 @@
+@media screen and (max-width: 1024px) {
+    .w1180 {
+        width: 100%;
+    }
+    header .top {
+        padding:15px 0;
+    }
+    header .top .contact-top {
+        display: none;
+    }
+    header nav li {
+        padding: 5px 0px;
+        line-height: 40px;
+    }
+    header nav li a {
+        font-size: 14px;
+    }
+    header nav li a p {
+        display: none;
+    }
+    footer .bottom {
+        padding:30px 0;
+        text-align: center;
+    }
+    footer .bottom .link {
+        float: none;
+        margin: 0;
+    }
+    footer .bottom .link .logo-footer {
+        display: none;
+    }
+    footer .bottom .contacts {
+        margin-top:20px;
+        float: none;
+    }
+    footer .bottom .erCode {
+        float: none;
+        margin-right: 0px;
+        display: inline-block;
+    }
+    footer .copyright {
+        font-size: 10px;
+    }
+    .innerBanner .w1180 {
+        padding:400px 0 0 20px;
+    }
+    .list-box li {
+        padding:30px;
+    }
+    .list-box li h2 {
+        font-size: 16px;
+    }
+    .list-box .home-box {
+        height: auto;
+        background: none;
+    }
+    .list-box .home-box .text {
+        position: static;
+        font-size: 16px;
+    }
+    .list-box .home-box .text span {
+        font-size: 20px;
+    }
+    .list-box .service {
+        height: auto;
+        overflow: hidden;
+    }
+    .list-box .service li {
+        width: 100%;
+        margin-right:0;
+        margin-bottom:20px;
+    }
+    .list-box .service li .service-box {
+        height: 200px;
+        padding-top: 120px;
+    }
+    .list-box .service li .service-box img {
+        left: 50%;
+        margin-left: -110px;
+    }
+    .list-box .env {
+        overflow: hidden;
+        height: auto;
+    }
+    .list-box .env li {
+        float:none;
+        width: 100%;
+        height: auto;
+        margin-right:0;
+    }
+    .list-box .env li img {
+        width: 100%;
+    }
+    .list-box .case-box img {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+    .list-box .news li {
+        float: none;
+        width: 100%;
+        height: auto;
+        margin-right:0;
+        margin-bottom:20px;
+    }
+    .list-box .news li img {
+        width: 100%;
+        height: auto;
+    }
+    .list-box .news li .content {
+        height: auto;
+        padding:20px;
+    }
+    .wrap-static {
+        padding:20px 0;
+    }
+    .wrap-contact .list-box-about {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+    .wrap-static .context-cases img {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+    .wrap-contact .traffic li {
+        float:none;
+        width: 100%;
+        margin-right: 0px;
+        padding: 0 10px;
+        margin-bottom:20px;
+    }
+    .wrap-contact {
+        margin:0;
+    }
+    .wrap-static .context .dp img {
+        width: 100%;
+    }
+    .wrap-static .context {
+        padding:0 20px;
+    }
+}

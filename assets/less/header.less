@@ -1,0 +1,51 @@
+header {
+  background-color: #f6f5fa;
+  .top {
+    padding:25px 0;
+    .w1180 {
+      position: relative;
+    }
+    .contact-top {
+      position: absolute;
+      left:0;
+      top:0;
+      padding-left:40px;
+      background: url(../img/icon-tel.png) no-repeat 0 10px;
+      p {
+        color:#89859e;
+      }
+    }
+    .logo {
+      width: 286px;
+      height: 38px;
+      background:url(../img/logo.png) no-repeat;
+      margin:0 auto;
+    }
+  }
+  nav {
+    background: rgba(255,255,255,0.8);
+    text-align: center;
+    position: relative;
+    z-index: 9;
+    li {
+      display: inline-block;
+      height: 50px;
+      padding: 5px 20px;
+      margin: 0 5px;
+      cursor: pointer;
+      box-sizing: border-box;
+      a {
+        display: block;
+        font-size: 16px;
+        color:#2c2b39;
+        &:hover, &.nuxt-link-exact-active {
+          color:#e480b1;
+          text-decoration: none;
+        }
+        p {
+          font-size: 10px;
+        }
+      }
+    }
+  }
+}
