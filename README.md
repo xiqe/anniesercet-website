@@ -54,5 +54,8 @@ $ npm run generate
 纯静态页面型的应用，直接把`dist`文件夹部署到指定机器即可（先配置好机器ip、密码、上传路径等信息）
 
 ###项目地址
-[This link](http://anniesecret.com/)
+``` bash
+[http://anniesecret.com/](http://anniesecret.com/)
+```
+
 
