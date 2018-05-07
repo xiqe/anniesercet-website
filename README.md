@@ -55,6 +55,6 @@ $ npm run generate
 
 ###项目地址
 
-[http://anniesecret.com/](http://anniesecret.com/?_blank)
+[http://anniesecret.com/](http://anniesecret.com/)
 
 
